@@ -1,13 +1,13 @@
 {
-    "port": 18081,
+    "port": 8083,
     "name": "File System",
     "cnName": "文件管理系统",
     "company": "file.shushanfx.com",
     "description": "文件管理系统",
     "base": "/nfile",
     "workspace": {
-        "path": "/shushanfx/node/data",
-        "pwd": "/shushanfx/node/nfile"
+        "path": "/stulang/node/data",
+        "pwd": "/stulang/node/nfile"
     }, 
     "logger": {
         "format": ":remote-addr - :remote-user [:date[iso]] \":method :url HTTP/:http-version\" :status :res[content-length] \":referrer\" \":user-agent\""
